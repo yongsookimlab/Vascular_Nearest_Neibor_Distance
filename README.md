@@ -1,2 +1,2 @@
-This code is designed for analyzing data formate from Wu, Yuan-ting, et al. "Quantitative relationship between cerebrovascular network and neuronal cell types in mice." Cell reports 39.12 (2022).
+This code is designed for analyzing data formate from Wu et al., "Quantitative relationship between cerebrovascular network and neuronal cell types in mice." Cell reports (2022) PMID: 35732133 and Bennett et al., "Aging drives cerebrovascular network remodeling and functional changes in the mouse brain" Nature Communications (2024).
 It compute and make a table(csv) of the nearset distance from each ROI
